@@ -1,0 +1,7 @@
+Check,Result,Status
+Customer ID validation,0,Passed
+Product ID validation,0,Passed
+Unmatched order IDs,0,Passed
+Original order reconciliation mismatches,11226,Investigated
+Additional order item rows,31591,Quarantined
+Final financial reconciliation mismatches,0,Passed

@@ -1,0 +1,101 @@
+customer_id,customer_segment,customer_city,customer_state,customer_country,region,customer_acquisition_cost
+CUST-000001,Consumer,Laurenland,Dubai,UAE,South,13.58
+CUST-000002,Consumer,Lake Peter,Lower Saxony,Germany,North,27.45
+CUST-000003,Consumer,Seanview,North Rhine,Germany,West,31.53
+CUST-000004,VIP,Hawkinshaven,Pennsylvania,USA,East,16.02
+CUST-000005,Consumer,New Carlymouth,Florida,USA,South,41.34
+CUST-000006,Consumer,Lake Rachelbury,Scotland,UK,North,40.89
+CUST-000007,Premium,East Joseph,New York,USA,East,25.52
+CUST-000008,Consumer,Hillport,Illinois,USA,Central,66.68
+CUST-000009,Consumer,Lake Colleen,Michigan,USA,Central,31.03
+CUST-000010,VIP,West Adam,Lower Saxony,Germany,North,28.54
+CUST-000011,VIP,Scottchester,Sharjah,UAE,North,32.86
+CUST-000012,Premium,Carrieborough,Illinois,USA,Central,46.97
+CUST-000013,VIP,Kellyfort,North Carolina,USA,South,35.51
+CUST-000014,Consumer,Lisafurt,Pennsylvania,USA,East,72.75
+CUST-000015,Premium,Lake Katrina,Illinois,USA,Central,48.45
+CUST-000016,Business,South Lauren,North Carolina,USA,South,74.92
+CUST-000017,Premium,Chambersberg,New York,USA,East,18.9
+CUST-000018,Consumer,Lake Rodney,North Carolina,USA,South,72.74
+CUST-000019,Premium,Aguilarside,Maharashtra,India,West,15.73
+CUST-000020,VIP,Stephensstad,Karnataka,India,South,30.31
+CUST-000021,Business,North Kaylastad,Ohio,USA,Central,6.89
+CUST-000022,Consumer,Rasmussenmouth,Alberta,Canada,Central,24.74
+CUST-000023,Consumer,New Julie,Wales,UK,West,33.24
+CUST-000024,Consumer,Brooksmouth,New York,USA,East,12.03
+CUST-000025,Consumer,Whitneyfort,Georgia,USA,South,20.57
+CUST-000026,Consumer,North Marieberg,Florida,USA,South,62.94
+CUST-000027,Consumer,New Timothy,North Rhine,Germany,West,57.81
+CUST-000028,VIP,Floresport,California,USA,West,17.8
+CUST-000029,Premium,Deborahburgh,Pennsylvania,USA,East,22.01
+CUST-000030,Consumer,West Anita,North Carolina,USA,South,8.77
+CUST-000031,Business,East Danielle,Quebec,Canada,East,79.73
+CUST-000032,Consumer,South Brittany,Florida,USA,South,8.72
+CUST-000033,Consumer,Karenland,Victoria,Australia,South,74.18
+CUST-000034,Consumer,West Mark,Bavaria,Germany,South,61.31
+CUST-000035,Premium,Rosemouth,Ohio,USA,Central,69.24
+CUST-000036,Consumer,West Michaelmouth,North Carolina,USA,South,6.44
+CUST-000037,Consumer,Samanthashire,Bavaria,Germany,South,30.88
+CUST-000038,Consumer,West Daryl,Pennsylvania,USA,East,52.78
+CUST-000039,Consumer,Carlsonshire,Michigan,USA,Central,51.47
+CUST-000040,Consumer,New Garrett,England,UK,North,26.12
+CUST-000041,Premium,Harveystad,Scotland,UK,North,51.7
+CUST-000042,Consumer,Maynardhaven,Florida,USA,South,28.49
+CUST-000043,VIP,Mckinneymouth,Illinois,USA,Central,75.16
+CUST-000044,Consumer,West Antonio,Florida,USA,South,17.37
+CUST-000045,Consumer,Cunninghamfort,Texas,USA,South,77.61
+CUST-000046,Consumer,Kimberlystad,Florida,USA,South,9.51
+CUST-000047,Premium,Paynechester,North Rhine,Germany,West,72.83
+CUST-000048,Premium,West Nancy,Uttar Pradesh,India,North,39.68
+CUST-000049,Consumer,South Michelleville,Ohio,USA,Central,71.34
+CUST-000050,Consumer,Michellechester,Pennsylvania,USA,East,13.03
+CUST-000051,Consumer,Port Brian,North Carolina,USA,South,37.25
+CUST-000052,Consumer,West Tiffany,Illinois,USA,Central,13.77
+CUST-000053,Premium,East Sydneychester,Ohio,USA,Central,52.42
+CUST-000054,Business,Lake Michelle,Georgia,USA,South,30.8
+CUST-000055,Consumer,Port Megan,Texas,USA,South,70.48
+CUST-000056,Consumer,Courtneyfurt,Queensland,Australia,North,29.51
+CUST-000057,Premium,South Zacharyview,Ohio,USA,Central,12.41
+CUST-000058,Business,Murphytown,Pennsylvania,USA,East,21.1
+CUST-000059,Premium,Melissaside,Lower Saxony,Germany,North,51.27
+CUST-000060,Consumer,South Joseph,New York,USA,East,47.6
+CUST-000061,Consumer,Kramerton,Hesse,Germany,Central,63.65
+CUST-000062,Consumer,Smithburgh,Michigan,USA,Central,56.9
+CUST-000063,Premium,Harrisberg,Ajman,UAE,North,15.34
+CUST-000064,VIP,Clarencestad,North Rhine,Germany,West,40.8
+CUST-000065,Consumer,North Randy,Ohio,USA,Central,46.8
+CUST-000066,Consumer,Riosville,Pennsylvania,USA,East,68.07
+CUST-000067,Premium,New Erin,Florida,USA,South,62.14
+CUST-000068,Business,Port Robertberg,North Carolina,USA,South,13.9
+CUST-000069,Premium,North Lawrenceport,Illinois,USA,Central,75.28
+CUST-000070,Premium,Lake Victoria,Georgia,USA,South,77.84
+CUST-000071,Consumer,South Michael,Quebec,Canada,East,22.94
+CUST-000072,Premium,Jensenmouth,Uttar Pradesh,India,North,10.76
+CUST-000073,Business,New Jessicastad,Northern Ireland,UK,West,8.51
+CUST-000074,Consumer,Deannabury,North Carolina,USA,South,12.94
+CUST-000075,Consumer,Kimberlytown,North Carolina,USA,South,25.86
+CUST-000076,Consumer,Lake Peter,Texas,USA,South,67.05
+CUST-000077,VIP,South Paul,California,USA,West,46.78
+CUST-000078,Consumer,West Sarahberg,Uttar Pradesh,India,North,28.48
+CUST-000079,Business,Amyburgh,Maharashtra,India,West,52.66
+CUST-000080,Consumer,New Carlosview,California,USA,West,8.23
+CUST-000081,VIP,Hunterhaven,Northern Ireland,UK,West,15.98
+CUST-000082,Consumer,West Christopher,Maharashtra,India,West,13.07
+CUST-000083,VIP,New Mark,Michigan,USA,Central,41.3
+CUST-000084,Consumer,West Hollybury,Western Australia,Australia,West,71.33
+CUST-000085,Premium,South Cherylton,England,UK,North,29.33
+CUST-000086,Premium,North Alexander,North Carolina,USA,South,65.41
+CUST-000087,Premium,Alexandraview,California,USA,West,39.08
+CUST-000088,Premium,Jessicaville,Wales,UK,West,56.6
+CUST-000089,Consumer,West Jennifershire,Illinois,USA,Central,71.53
+CUST-000090,Consumer,Brianshire,North Carolina,USA,South,17.02
+CUST-000091,Premium,New Emilyville,New York,USA,East,59.32
+CUST-000092,Consumer,East Brandonstad,Texas,USA,South,54.63
+CUST-000093,Consumer,New Lindachester,New York,USA,East,67.26
+CUST-000094,Consumer,Josephland,Florida,USA,South,70.13
+CUST-000095,Consumer,East Jeffreyhaven,South Australia,Australia,South,36.5
+CUST-000096,Premium,Clineport,Ohio,USA,Central,5.85
+CUST-000097,Premium,Jamesshire,Pennsylvania,USA,East,32.31
+CUST-000098,Consumer,Brittanyfort,Ohio,USA,Central,58.21
+CUST-000099,Consumer,East Adam,Georgia,USA,South,8.79
+CUST-000100,Consumer,West Aaronfurt,Florida,USA,South,28.82

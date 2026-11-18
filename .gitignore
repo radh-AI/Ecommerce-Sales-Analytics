@@ -1,0 +1,27 @@
+
+# Generated cleaned datasets
+Python/cleaned_data/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python virtual environments
+.venv/
+venv/
+
+# Local environment variables and credentials
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+
+# Detailed audit records generated during cleaning
+Python/audit/extra_order_items.csv
