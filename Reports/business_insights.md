@@ -296,4 +296,66 @@ making seasonal business decisions.
 
 ## 6. Conclusion
 
-To be completed after documenting the findings.
+This E-Commerce Sales Analytics project demonstrates
+an end-to-end data analysis workflow using Python,
+PostgreSQL, and Power BI.
+
+Python was used for data cleaning, validation,
+and preparation. PostgreSQL was used for data
+storage, analytical queries, and SQL views.
+Power BI was used to visualize key business
+performance metrics.
+
+### Key Findings
+
+1. The overall order completion rate was 82.22%,
+   with 113,559 completed orders out of 138,116.
+
+2. Completed INR orders generated ₹6,323,689.82
+   in revenue and ₹2,856,383.82 in calculated
+   profit, representing a 45.17% profit margin.
+
+3. The Average Order Value for completed INR
+   orders was ₹1,340.33.
+
+4. Customer CUST-002969 generated the highest
+   completed INR revenue among individual
+   customers, at ₹27,003.85.
+
+5. December 2023 recorded the highest monthly
+   completed-order INR revenue at ₹180,282.79,
+   while October generated the highest monthly
+   profit at ₹70,020.58.
+
+### Business Value
+
+The analysis provides a foundation for
+understanding order performance, profitability,
+customer revenue contribution, and monthly
+sales trends.
+
+The findings highlight opportunities for
+further investigation into order fulfillment,
+customer retention, pricing, and profitability.
+
+### Limitations
+
+The dataset is synthetic and does not represent
+verified transactions from a real business.
+
+Therefore, the findings demonstrate analytical
+methods and potential business applications,
+rather than actual company performance.
+
+### Final Summary
+
+This project demonstrates practical skills in
+data cleaning, SQL analysis, data validation,
+business interpretation, and dashboard
+development.
+
+It also demonstrates how analytical results
+can be translated into actionable business
+questions and recommendations.
+
+
