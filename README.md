@@ -80,6 +80,16 @@ The analytical views support:
 
 Developed a three-page Power BI dashboard with 11 visuals to explore e-commerce sales and customer performance.
 
+
+### Power BI Dashboard Preview
+
+The Executive Overview dashboard provides a visual summary of key e-commerce sales performance metrics.
+
+![E-Commerce Sales Analytics - Executive Overview](Images/Executive_Overview.png)
+
+**[Download the Power BI Dashboard](PowerBI/Ecommerce_Sales_Analytics.pbix)**
+
+
 ## Key Business Metrics
 
 The following results represent **completed orders in INR**:
